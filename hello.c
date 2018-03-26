@@ -5,7 +5,10 @@ int main(void)
 printf("hello");
 
 
-printf("");
+
+
+
+psdrintf("");
 ieturn 0;
 }
 
